@@ -12,3 +12,4 @@ Upon entering at least one search criteria into the text box the results will be
 
 ![ufos_ca_triangle](https://user-images.githubusercontent.com/86164867/139343974-8e6da15f-93b7-40ca-a315-637056191b21.PNG)
 
+To reset the search all search criteria must be deleted from the text boxes then the cursor musty be clicked outsid eof the text boxes.
